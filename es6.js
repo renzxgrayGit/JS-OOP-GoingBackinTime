@@ -22,8 +22,8 @@ class Desk {
    }
 }
   
-var desk1 = new Desk("oak desk");
-var desk2 = new Desk("maple desk");
+let desk1 = new Desk("oak desk");
+let desk2 = new Desk("maple desk");
 desk1.updateColor("brown");
 desk1.displayinfo();
  
